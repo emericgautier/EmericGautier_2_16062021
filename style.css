@@ -523,3 +523,12 @@ ul {
     .activities {
         grid-template-columns: 1fr 1fr;
     }
+
+    .activities {
+        grid-template-rows: auto 12rem 12rem 12rem;
+        row-gap: 2rem;
+    }
+
+    .activities h2 {
+        grid-column: 1/-1;
+    }
