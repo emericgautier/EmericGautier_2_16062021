@@ -149,4 +149,8 @@ ul {
     padding-right: 1rem;
 }
 
+.filters div:hover {
+    background-color: #f2f7ff;
+}
+
 
