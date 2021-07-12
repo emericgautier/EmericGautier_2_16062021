@@ -469,3 +469,8 @@ ul {
     .activities {
         grid-template-columns: 1fr;
     }
+
+    .activities {
+        grid-template-rows: auto repeat(6, 20rem);
+        row-gap: 2rem;
+    }
