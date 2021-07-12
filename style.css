@@ -59,3 +59,12 @@ ul {
     border-top: 3px solid #0065FC;
     color: #0065FC;
 }
+
+#signup {
+    grid-area: button;
+}
+
+#signup a {
+    color: #0065FC;
+    font-weight: 700;
+}
