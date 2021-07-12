@@ -254,3 +254,11 @@ ul {
             .staysMainShowMore {
                 font-weight: bold;
             }
+
+            .StaysMostPopular {
+                display: grid;
+                align-items: start;
+                grid-template-rows: auto repeat(3,1fr);
+                padding: 2rem;
+                row-gap: 2rem;
+            }
