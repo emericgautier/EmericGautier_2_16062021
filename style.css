@@ -302,5 +302,13 @@ ul {
         flex: 1;
 }
 
+.staysMain, 
+.StaysMostPopular {
+            background-color: #F2F2F2;
+            border-radius: 1.5rem;
+            padding: 2rem;
+        }
+
+
 
 
