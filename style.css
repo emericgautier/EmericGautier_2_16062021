@@ -593,6 +593,14 @@ ul {
         grid-template-rows: auto auto;
     }
 
+    .staysMain {
+        background-color: #F2F2F2;
+    }
+
+    .staysMain img {
+        height: 14rem;
+    }
+
 
 
 
