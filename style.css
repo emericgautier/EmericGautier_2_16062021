@@ -28,3 +28,17 @@ ul {
     margin: auto;
 }
 
+.top-section nav {
+    grid-area: navbar;
+}
+
+.top-section ul {
+    text-align: center;
+    margin: 1.2rem 0;
+    width: 100%;
+}
+
+.top-section li {
+    padding: 0 1.2rem;
+}
+
