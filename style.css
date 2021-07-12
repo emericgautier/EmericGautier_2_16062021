@@ -262,3 +262,25 @@ ul {
                 padding: 2rem;
                 row-gap: 2rem;
             }
+
+            .StaysMostPopular h2 {
+                display: flex;
+                justify-content: space-between;
+                margin: 0;
+                }
+    
+                .StaysMostPopular a {
+                    display: flex;
+                    align-items: stretch;
+                    height: 100%;
+                    overflow: auto;
+                }
+    
+                .StaysMostPopular figure {
+                    position: relative;
+                    margin: 0;
+                    min-width: 33%;
+                    max-width: 33%;
+                    min-height: 100%;
+                    width: 33%;
+                }
