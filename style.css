@@ -418,3 +418,21 @@ ul {
     } 
 
 }
+
+@media screen and (max-width: 910px) {
+    .top-section {
+        grid-template-areas: "logo . button" "navbar navbar navbar";
+        grid-template-columns: auto 1fr auto;
+        position: relative;
+    }
+
+
+    #signup
+    {
+        position: absolute;
+        top: 0;
+        right: 0;
+        padding: 1rem;
+        width: auto;
+        border-bottom: none;
+    }
