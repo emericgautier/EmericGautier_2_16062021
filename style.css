@@ -601,6 +601,13 @@ ul {
         height: 14rem;
     }
 
+    .staysMostPopular {
+        grid-template-columns: 1fr;
+        grid-template-rows: auto repeat(3, 12rem);
+        grid-row: 1/2;
+        border-radius: 0;
+    }
+
 
 
 
