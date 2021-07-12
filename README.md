@@ -21,7 +21,7 @@ Course Resources List :
 - HTML5 Semantic Tags
   - https://www.w3schools.com/html/html5_semantic_elements.asp
 
-- CSS3 Grid Layoud 
+- CSS3 Grid Layout 
   - https://www.youtube.com/watch?v=2H602-zG62w&t=218s
   - https://developer.mozilla.org/fr/docs/Web/CSS/grid
 
