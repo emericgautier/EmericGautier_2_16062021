@@ -445,3 +445,18 @@ ul {
             width: 50%;
             padding: 0;
         }
+
+        .top-section nav a {
+            display: inline-block;
+            border-bottom: 3px #f2f2f2 solid;
+            width: 100%;
+        }
+
+        .top-section nav a[data-active=true] {
+            border-bottom: 3px #0065FC solid;
+            border-top: none;
+        }
+
+        .top-section nav a:hover {
+            border-top: none;
+        }
