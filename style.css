@@ -42,3 +42,20 @@ ul {
     padding: 0 1.2rem;
 }
 
+.top-section nav a {
+    text-align: center;
+    border-bottom: 3px transparent solid;
+    padding: 1rem 0;
+    font-weight: 500;
+    transition-duration: 0.1s;
+}
+
+.top-section nav a:hover {
+    border-top: 3px solid #0065FC;
+    color: #0065FC;
+}
+
+.top-section nav a[data-active="true"] {
+    border-top: 3px solid #0065FC;
+    color: #0065FC;
+}
