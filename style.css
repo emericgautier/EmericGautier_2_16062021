@@ -17,3 +17,14 @@ ul {
     margin: 0;
 }
 
+/******************** Top Section ******************/
+
+.top-section {
+    display: grid;
+    grid-template-areas: "logo . navbar button";
+    grid-template-columns: auto 1fr auto auto;
+    max-width: 1440px;
+    padding-left: 32px;
+    margin: auto;
+}
+
