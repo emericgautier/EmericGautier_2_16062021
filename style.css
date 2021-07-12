@@ -376,3 +376,10 @@ ul {
             grid-row: 4/7;
         }
 
+/******************** Bottom Section ******************/
+
+
+.bottom-section {
+    background-color: #F2F2F2;
+    width: 100%;
+}
