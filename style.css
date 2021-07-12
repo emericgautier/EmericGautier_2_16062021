@@ -460,3 +460,7 @@ ul {
         .top-section nav a:hover {
             border-top: none;
         }
+
+        .searchButton {
+            display: none;
+        }
