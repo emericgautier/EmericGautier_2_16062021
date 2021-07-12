@@ -68,3 +68,12 @@ ul {
     color: #0065FC;
     font-weight: 700;
 }
+
+/******************** Middle Section ******************/
+
+.middle-section {
+    box-sizing: border-box;
+    max-width: 1440px;
+    padding: 0 2rem;
+    margin: auto;
+}
