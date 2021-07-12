@@ -86,6 +86,23 @@ ul {
     margin-top: 0;
 }
 
+.search form {
+    display: inline-flex;
+    overflow: auto;
+    max-width: 100%; 
+}
+
+.search form input {
+    border-top: #F2F2F2 1px solid;
+    border-bottom: #F2F2F2 1px solid;
+    border-right: none;
+    border-left: none;
+    padding: 0 1.5rem;
+    width: 14rem;
+    font-size: 1rem;
+    font-weight: bold;
+    font-family: "Raleway","Sans serif";
+}
 
 
 
