@@ -317,4 +317,25 @@ ul {
             margin: 4rem 0;
         }
 
+        .activities h2 {
+            grid-column: 1 / -1;
+        }
+
+        .activities a {
+            display: flex;
+            flex-direction: column;
+            box-shadow: 0 0 20px #0000002e;
+            transition-duration: 0.1s;
+            border-radius: 1rem;
+            overflow: hidden; 
+        }
+
+        .activities h3 {
+            margin: 1.2rem 1.5rem;
+        }
+
+        .activitiesWrap {
+            position: relative;
+            flex: 1;
+        }
 
