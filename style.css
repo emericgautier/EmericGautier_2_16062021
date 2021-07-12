@@ -124,6 +124,12 @@ ul {
     padding-right: 1.5rem;
 }
 
+.filters {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+}
+
 
 
 
