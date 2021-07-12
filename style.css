@@ -398,3 +398,11 @@ ul {
     padding-left: 0px;
     padding-right: 250px;
 }
+
+.bottom-section ul {
+    display: block;
+}
+
+.bottom-section ul li {
+    margin: 1rem 0;
+}
