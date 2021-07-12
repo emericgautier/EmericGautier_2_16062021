@@ -104,7 +104,25 @@ ul {
     font-family: "Raleway","Sans serif";
 }
 
+.searchWrapIcon {
+    background-color: #F2F2F2;
+    padding: 1rem 1.25rem;
+    border-radius: 1rem 0 0 1rem;
+    text-align: center;
+}
 
+.search form button {
+    background-color: #0065FC;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 0 1rem 1rem 0;
+    font-family: "Raleway", "Sans serif";
+    font-size: 1rem;
+    cursor: pointer;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
 
 
 
