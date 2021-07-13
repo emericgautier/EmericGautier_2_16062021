@@ -3,7 +3,7 @@ _Transformer une maquette en site web responsive en HTML et CSS._
 
 ![responsiveFormat](https://user-images.githubusercontent.com/78208136/123943474-7b330980-d99c-11eb-9549-e58e52de8b57.png)
 
-## <a href="https://emericgautier.github.io/reservia/" rel="">Ma page web hébergée sur GitHub Pages</a>
+## <a href="https://emericgautier.github.io/EmericGautier_2_16062021" rel="">Ma page web hébergée sur GitHub Pages</a>
 
 <br/>
 
