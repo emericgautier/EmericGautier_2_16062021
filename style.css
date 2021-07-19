@@ -464,6 +464,7 @@ ul {
 
     .top-section nav a:hover {
         border-top: none;
+        border-bottom: 3px #0065FC solid;
     }
 
     .searchButton {
