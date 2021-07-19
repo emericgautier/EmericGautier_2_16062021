@@ -24,9 +24,12 @@ ul {
     grid-template-areas: "logo . navbar button";
     grid-template-columns: auto 1fr auto auto;
     max-width: 1440px;
-    padding-left: 32px;
     margin: auto;
 }
+
+.top-section img {
+    margin-left : 2rem;
+    }
 
 .top-section nav {
     grid-area: navbar;
@@ -150,7 +153,7 @@ ul {
 }
 
 .filters div:hover {
-    background-color: #f2f7ff;
+    background-color: #F2F2F2;
 }
 
 .filters i {
@@ -400,6 +403,8 @@ ul {
     padding-right: 250px;
 }
 
+
+
 .bottom-section ul {
     display: block;
 }
@@ -513,6 +518,11 @@ ul {
     .footerWrap {
         flex-direction: column;
     }
+
+    .footerWrapper h3, ul {
+        width: 250px;
+    }
+    
 }
 
 
