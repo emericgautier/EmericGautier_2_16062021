@@ -1,14 +1,13 @@
 ## Projet 2 - Reservia
-_Transformer une maquette en site web responsive en HTML et CSS._
+_Projet  de la formation développeur web - OpenClassroom._
 
 ![responsiveFormat](https://user-images.githubusercontent.com/78208136/123943474-7b330980-d99c-11eb-9549-e58e52de8b57.png)
 
-## <a href="https://emericgautier.github.io/EmericGautier_2_16062021" rel="">Ma page web hébergée sur GitHub Pages</a>
+### <a href="https://emericgautier.github.io/EmericGautier_2_16062021" rel="">Ma page web hébergée sur GitHub Pages</a>
 
 <br/>
 
-Technology used for this project :
-
+🛠 Technologies utilisées pour ce projet :
 - HTML5 Semantic Tags
 - CSS3 Grid Layout
 - CSS3 Flexbox
@@ -16,15 +15,14 @@ Technology used for this project :
 
 <br/>
 
-Course Resources List :
+### 🎯 Mission
+  - Transformer une maquette en site web responsive
 
-- HTML5 Semantic Tags
-  - https://www.w3schools.com/html/html5_semantic_elements.asp
+<br />
 
-- CSS3 Grid Layout 
-  - https://www.youtube.com/watch?v=2H602-zG62w&t=218s
-  - https://developer.mozilla.org/fr/docs/Web/CSS/grid
+### ⚡️ Evaluation
+1. Utiliser un système de gestion de versions pour le suivi du projet et son hébergement
+2. Intégrer du contenu conformément à une maquette
+3. Implémenter une interface responsive
+4. Mettre en place son environnement Front-End
 
-- CSS3 Flexbox
-  - https://www.youtube.com/watch?v=JJSoEo8JSnc
-  - https://codepen.io/sambible/pen/eZxQyP
