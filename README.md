@@ -1,5 +1,5 @@
 ## Projet 2 - Reservia
-_Projet  de la formation développeur web - OpenClassroom._
+_Projet  de la formation développeur web - OpenClassrooms._
 
 ![responsiveFormat](https://user-images.githubusercontent.com/78208136/123943474-7b330980-d99c-11eb-9549-e58e52de8b57.png)
 
